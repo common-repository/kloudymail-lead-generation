@@ -1,0 +1,327 @@
+# Copyright (C) 2018 Kloudymail Lead generation
+# This file is distributed under the same license as the Kloudymail Lead generation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kloudymail Lead generation 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kloudymail-lead-"
+"generation\n"
+"POT-Creation-Date: 2018-11-22 11:01:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-wp-list-table.php:151
+msgid "List View"
+msgstr ""
+
+#: admin/class-wp-list-table.php:152
+msgid "Excerpt View"
+msgstr ""
+
+#: admin/class-wp-list-table.php:312
+msgid "No items found."
+msgstr ""
+
+#: admin/class-wp-list-table.php:434
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/class-wp-list-table.php:436
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/class-wp-list-table.php:446
+msgid "Apply"
+msgstr ""
+
+#: admin/class-wp-list-table.php:494 admin/class-wp-list-table.php:1272
+msgid "Show more details"
+msgstr ""
+
+#: admin/class-wp-list-table.php:556
+msgid "Filter by date"
+msgstr ""
+
+#: admin/class-wp-list-table.php:558
+msgid "All dates"
+msgstr ""
+
+#. translators: 1: month name, 2: 4-digit year
+#: admin/class-wp-list-table.php:571
+msgid "%1$s %2$d"
+msgstr ""
+
+#: admin/class-wp-list-table.php:621
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wp-list-table.php:622
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wp-list-table.php:623
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wp-list-table.php:628 admin/class-wp-list-table.php:640
+#: admin/class-wp-list-table.php:653
+msgid "No comments"
+msgstr ""
+
+#: admin/class-wp-list-table.php:640
+msgid "No approved comments"
+msgstr ""
+
+#: admin/class-wp-list-table.php:653
+msgid "No pending comments"
+msgstr ""
+
+#: admin/class-wp-list-table.php:727 admin/class-wp-list-table.php:1296
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wp-list-table.php:763
+msgid "First page"
+msgstr ""
+
+#: admin/class-wp-list-table.php:773
+msgid "Previous page"
+msgstr ""
+
+#: admin/class-wp-list-table.php:780 admin/class-wp-list-table.php:783
+msgid "Current Page"
+msgstr ""
+
+#: admin/class-wp-list-table.php:789
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: admin/class-wp-list-table.php:796
+msgid "Next page"
+msgstr ""
+
+#: admin/class-wp-list-table.php:806
+msgid "Last page"
+msgstr ""
+
+#: admin/class-wp-list-table.php:1026
+msgid "Select All"
+msgstr ""
+
+#: admin/form.php:17
+msgid "Subscribe in list"
+msgstr ""
+
+#: admin/form.php:19
+msgid "Notify the user"
+msgstr ""
+
+#: admin/form.php:22
+msgid "Update Form fields"
+msgstr ""
+
+#: admin/form.php:58
+msgid "Unable to get lists"
+msgstr ""
+
+#: admin/menu.php:12 admin/menu.php:42
+msgid "Settings"
+msgstr ""
+
+#: admin/menu.php:13
+msgid "Recaptcha"
+msgstr ""
+
+#: admin/menu.php:14
+msgid "API key"
+msgstr ""
+
+#: admin/menu.php:15
+msgid "Account"
+msgstr ""
+
+#: admin/menu.php:16
+msgid "Site key"
+msgstr ""
+
+#: admin/menu.php:17
+msgid "Secret key"
+msgstr ""
+
+#: admin/menu.php:31
+msgid ""
+"Get keys from <a href=\"https://www.google.com/recaptcha/intro/index.html\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: admin/menu.php:32
+msgid " And add "
+msgstr ""
+
+#: admin/menu.php:34
+msgid " to the allowed domains"
+msgstr ""
+
+#: admin/menu.php:43 admin/menu.php:286
+msgid "Export"
+msgstr ""
+
+#: admin/menu.php:44
+msgid "Widget"
+msgstr ""
+
+#: admin/menu.php:50
+msgid "Account not selected/Wrong API Key"
+msgstr ""
+
+#: admin/menu.php:63
+msgid "Recaptcha keys not inserted"
+msgstr ""
+
+#: admin/menu.php:68
+msgid "Settings saved"
+msgstr ""
+
+#: admin/menu.php:80
+msgid "<h2>Widget deleted</h2>"
+msgstr ""
+
+#: admin/menu.php:81 admin/menu.php:113
+msgid "Back"
+msgstr ""
+
+#: admin/menu.php:106
+msgid "Widget name:"
+msgstr ""
+
+#: admin/menu.php:112
+msgid "Save"
+msgstr ""
+
+#: admin/menu.php:179
+msgid "Yes"
+msgstr ""
+
+#: admin/menu.php:181
+msgid "No"
+msgstr ""
+
+#: admin/menu.php:188
+msgid "Copy"
+msgstr ""
+
+#: admin/menu.php:193
+msgid "Widget list:"
+msgstr ""
+
+#: admin/menu.php:205
+msgid "Add new"
+msgstr ""
+
+#: admin/menu.php:265
+msgid "Wrong key"
+msgstr ""
+
+#: admin/menu.php:287
+msgid ""
+"Thanks to this feature, you will able to export in a csv file all the "
+"subscribers to your newsletter"
+msgstr ""
+
+#: admin/menu.php:295
+msgid "Export subscribers"
+msgstr ""
+
+#: admin/menu.php:312
+msgid "<h2>There is no subscribers to export.</h2>"
+msgstr ""
+
+#: widgets.php:6
+msgid "Kloudymail subscription form"
+msgstr ""
+
+#: widgets.php:8 widgets.php:39
+msgid "Kloudymail form"
+msgstr ""
+
+#: widgets.php:135
+msgid "Name"
+msgstr ""
+
+#: widgets.php:136
+msgid "List"
+msgstr ""
+
+#: widgets.php:137
+msgid "Notify"
+msgstr ""
+
+#: widgets.php:138
+msgid "Shortcode"
+msgstr ""
+
+#: widgets.php:178
+msgid "Edit"
+msgstr ""
+
+#: widgets.php:179
+msgid "Delete"
+msgstr ""
+
+#: widgets.php:193
+msgid "Subscribe"
+msgstr ""
+
+#: widgets.php:194
+msgid "You have successfully subscribed to our newsletter!"
+msgstr ""
+
+#: widgets.php:195
+msgid ""
+"You subscribed to our newsletter, please check your email and activate your "
+"subscription"
+msgstr ""
+
+#: widgets.php:196
+msgid "Error"
+msgstr ""
+
+#: widgets.php:197
+msgid "This email address is already registered"
+msgstr ""
+
+#: widgets.php:198
+msgid "Check the fields!"
+msgstr ""
+
+#: widgets.php:199
+msgid "Captcha check failed"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kloudymail Lead generation"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.kloudymail.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrate kloudymail in your wordpress website"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wekloud"
+msgstr ""

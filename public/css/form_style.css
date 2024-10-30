@@ -1,0 +1,45 @@
+.kmlg_subscribe_text{
+	display: block;
+}
+.kmlg_input_email{
+	display: block;
+}
+.kmlg_input_text{
+	display: block;
+}
+.kmlg_input_number{
+	display: block;
+}
+.kmlg_input_textarea{
+	display: block;
+}
+.kmlg_input_radio{
+
+}
+.kmlg_input_checkbox{
+
+}
+.kmlg_input_tel{
+	width: 100%;
+}
+.kmlg_input_tel_prefix{
+	width: 100%;
+}
+.kmlg_input_date{
+	display: block;
+}
+.kmlg_input_submit{
+	display: block;
+}
+.kmlg_subscribing{
+	background: url('../../../../../wp-admin/images/wpspin_light-2x.gif') no-repeat;
+	background-size: 32px 32px;
+	opacity: .7;
+	filter: alpha(opacity=70);
+	width: 32px;
+	height: 32px;
+	margin: 5px 5px 0;
+}
+.kmlg_input_label{
+	font-weight: normal;
+}

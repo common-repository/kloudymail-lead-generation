@@ -1,0 +1,59 @@
+.kmlg_general{
+	background: #FFFFFF ;
+	border: 1px solid #DDDDDD ; 
+	border-radius: 5px ;
+	height: 37px;
+}
+select.kmlg_general{
+	/* styling */
+  /* styling */
+  background-color: white;
+  border: thin solid lightgrey;
+  border-radius: 4px;
+  display: inline-block;
+  font: inherit;
+  line-height: 1.5em;
+  padding: 0.5em 3.5em 0.5em 1em;
+
+  /* reset */
+
+  margin: 0;      
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  height: 37px;
+
+	background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+}
+
+.kmlg_button{
+	background: #F7F7F7 !important; 
+	border: 1px solid #CCCCCC !important; 
+	border-radius: 5px !important; 
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.2) !important;
+}
+.kmlg_space{
+	margin-left: 40px; 
+	margin-top: 50px;
+	margin-right: 40px;
+}
+
+.kmlg_space .wp-list-table .column-name { width: 20%; }
+.kmlg_space .wp-list-table .column-list { width: 20%; }
+.kmlg_space .wp-list-table .column-notify { width: 10%; }
+.kmlg_space .wp-list-table .column-shortcode { width: 45%; }
+.kmlg_space .wp-list-table .column-copy { width: 5%; }
